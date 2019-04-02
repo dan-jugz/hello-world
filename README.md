@@ -1,8 +1,7 @@
 # Hello-World
 
 ## Authors
-- [Daniel Muchiri](https://github.com/daydroidmuchiri)
-- Add your clickable username here. It should point to your GitHub account. 
+- [Daniel Njuguna](https://github.com/dan-jugz)
 
 ## Project setup instructions
 To start using this project use the following commands:
@@ -14,7 +13,7 @@ To start using this project use the following commands:
 ## License info
 MIT License
 
-Copyright (c) 2018 Moringa School
+Copyright (c) _2019_ Moringa School
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
